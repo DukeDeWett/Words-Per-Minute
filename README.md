@@ -5,5 +5,5 @@ It should work on windows/iOS and Linux.
 ### Install
 1. `pip3 install -r requirements.txt`
 
-### Check Weather
+### Words Per Minute
 1. `python3 WPM.py`
